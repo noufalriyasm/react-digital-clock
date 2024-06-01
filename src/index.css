@@ -1,0 +1,24 @@
+body{
+  background-image: url(assets/react.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.clock{
+  font-size: 50px;
+  text-align: center;
+  font-family: monospace;
+
+  
+  
+ 
+  
+  
+}
